@@ -27,6 +27,9 @@ EditorBuildSettings:
     path: Assets/_scenes/the_takeover.unity
     guid: 107d827582269064d96a86fa2b56ac3f
   - enabled: 1
+    path: Assets/_scenes/moronao_warning.unity
+    guid: afe7a6204fc064b4183c3b3cc646a535
+  - enabled: 1
     path: Assets/_scenes/second_fight.unity
     guid: eac1a83e7cd578249b7fe5e71ca4b6d6
   - enabled: 1

@@ -11,6 +11,7 @@ public class StartGame : MonoBehaviour {
 
 	public void startButton_click()
     {
+        Debug.Log("Start button clicked");
         SceneManager.LoadScene("opening");
 
     }

@@ -108,7 +108,7 @@ public class GameController : MonoBehaviour
     void UpdateScore()
     {
         scoreText.text = "Zenni Earned: " + score;
-        if(score == 1000)
+        if(score == 500)
         {
             SceneManager.LoadScene("the_takeover");
         }
