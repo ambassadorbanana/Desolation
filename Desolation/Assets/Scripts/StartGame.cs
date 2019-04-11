@@ -11,7 +11,10 @@ public class StartGame : MonoBehaviour {
 
 	public void startButton_click()
     {
-        SceneManager.LoadScene("opening");
+        //starts the fade in and loads the enxt scene caled "opening"
+        StartCoroutine(GameObject.FindObjectOfType<SceneFader>().FadeAndLoadScene(SceneFader.FadeDirection.In, "opening"));
+        Debug.Log("Start button clicked");
+        //SceneManager.LoadScene("opening");
 
     }
 }

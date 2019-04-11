@@ -12,6 +12,21 @@ EditorBuildSettings:
     path: Assets/_scenes/opening.unity
     guid: 131a1f1584102244c9936c3238411f9e
   - enabled: 1
+    path: Assets/_scenes/opening2.unity
+    guid: 42e9e0ffa578d8c4e8f644c111c13c07
+  - enabled: 1
+    path: Assets/_scenes/opening3.unity
+    guid: f3285f3d305721640999cfd4489134c2
+  - enabled: 1
+    path: Assets/_scenes/opening4.unity
+    guid: 58ed8cb3fa8fc804b9f1c1c062ef1daf
+  - enabled: 1
+    path: Assets/_scenes/opening5.unity
+    guid: 11387f5d81627f04b8398a2bbc6903f3
+  - enabled: 1
+    path: Assets/_scenes/opening6.unity
+    guid: a8d2c7bbcdb7bb34db0420404ed43332
+  - enabled: 1
     path: Assets/_scenes/convo example.unity
     guid: a4c613eb32d4b4e4bb3dba379650bac3
   - enabled: 1
@@ -27,9 +42,18 @@ EditorBuildSettings:
     path: Assets/_scenes/the_takeover.unity
     guid: 107d827582269064d96a86fa2b56ac3f
   - enabled: 1
+    path: Assets/_scenes/moronao_warning.unity
+    guid: afe7a6204fc064b4183c3b3cc646a535
+  - enabled: 1
     path: Assets/_scenes/second_fight.unity
     guid: eac1a83e7cd578249b7fe5e71ca4b6d6
   - enabled: 1
+    path: Assets/_scenes/bw teatown.unity
+    guid: c8751a15e79714e4d8c6906ddc8ba138
+  - enabled: 1
     path: Assets/_scenes/demo_thouse.unity
     guid: 4772325d445a6471b91f90617b289708
+  - enabled: 1
+    path: Assets/_scenes/sample_pit.unity
+    guid: 17540a5428226a04a8219abe4b8e7807
   m_configObjects: {}
